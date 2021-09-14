@@ -50,7 +50,7 @@ public class exNumbersToNames {
                 str = "December";
                 break;
             default:
-                str = "Invalid number for Month";
+                str = "NOT AVAILABLE (Invalid Month number)";
         }
         System.out.println("The name of the month is " + str + ".");
     }
